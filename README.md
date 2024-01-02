@@ -1,5 +1,5 @@
 # python
 
-Learning Scientific Computing with Python on FreedCodeCamp. These are the exercises completed during the course.
+Learning Scientific Computing with Python on FreedCodeCamp. These are the exercises I've completed. 
 
-FreeCodeCamp launched a new Python curriculum which is currently in its Beta stage.
+FreeCodeCamp recently launched a new Python curriculum which is currently in its Beta stage. I am currently working on the new curriculum and aiming to build 15 new projects.

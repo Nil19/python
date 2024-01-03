@@ -1,5 +1,3 @@
-#STEPS 1 - 17
-
 #Step 1: Create a variable called number and assign it the value 5.
 number = 5
 

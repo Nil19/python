@@ -10,7 +10,7 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :large_blue_circle: Work with Numbers and Strings by Implementing the Luhn Algorithm
 
-:white_circle: Lambda Functions by Building an Expence Tracker
+:white_circle: Lambda Functions by Building an Expense Tracker
 
 :white_circle: List Comprehension by Building a Case Converter Program
 

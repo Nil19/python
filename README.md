@@ -1,4 +1,4 @@
-# python
+# Python
 
 Learning Scientific Computing with Python on FreedCodeCamp.
 

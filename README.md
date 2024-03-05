@@ -4,11 +4,11 @@ Learning Scientific Computing with Python on FreedCodeCamp.
 
 FreeCodeCamp recently launched a new Python curriculum. I am currently working on the new curriculum and aiming to build 15 new projects.
 
-**Lessons:**
+### Lessons:
 
 :white_check_mark: String Manipulation by Building a Cipher
 
-:large_blue_circle: Work with Numbers and Strings by Implements Luhn Algorithm
+:large_blue_circle: Work with Numbers and Strings by Implementing the Luhn Algorithm
 
 :white_circle: Lambda Functions by Building an Expence Tracker
 
@@ -26,7 +26,7 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_circle: Tree Traversal by Building a Binary Search Tree
 
-**Final Projects:**
+### Final Projects:
 
 :white_circle: Arithmetic Formatter
 
@@ -38,7 +38,7 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_circle: Probability Calculator
 
-**Keys:** 
+### Keys:
 
 :white_check_mark: : Completed
 

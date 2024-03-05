@@ -2,7 +2,7 @@
 def verify_card_number(card_number):
     pass
 
-#Step 8: Within your main function, call the verify_card_number function and pass in the translated_card_number variable as an argumen
+#Step 8: Within your main function, call the verify_card_number function and pass in the translated_card_number variable as an argument
 def main():
     card_number = '4111-1111-4555-1142'
     card_translation = str.maketrans({'-': '', ' ': ''})
@@ -20,3 +20,39 @@ def main():
 # Double every other  7  18  9  4  7  6  9  16  7  2  x
 # Sum 2-char digits   7   9  9  4  7  6  9   7  7  2  x
     
+# Replace the pass statement with a variable sum_of_odd_digits and a value of 0.
+def verify_card_number(card_number):
+    sum_of_odd_digits = 0 
+
+#Step 10: Create a variable named card_number_reversed and assign it the value of the first 4 characters of card_number.
+    card_number_reversed = card_number[0:4]
+
+#Step 11: Print the value of the card_number_reversed variable to the console.
+    print(card_number_reversed)
+
+#Step 12: Change card_number_reversed to be every second digit of the first four digits of card_number
+def verify_card_number(card_number):
+    sum_of_odd_digits = 0
+    card_number_reversed = card_number[0:4:2]
+    print(card_number_reversed)
+
+#Output:
+    # 4111111145551142
+    # 41
+
+#Step 13: Reverse the order of the digits in the last four digits of card_number, by using a slice with a step of -1. You can use either negative or positive indices for the start and end indices.
+    card_number_reversed = card_number[-1:-5:-1]
+
+#Output:
+    # 4111111145551142
+    # 2411
+
+#Step 14: Assign the reverse of the full card_number string to the card_number_reversed variable.
+    card_number_reversed = card_number[::-1]
+
+#Output: 
+    # 4111111145551142
+    # 2411555411111114
+
+#Step 15: Remove the print call from the verify_card_number function.
+#Step 16: Remove the print call from the main function.

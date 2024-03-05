@@ -4,7 +4,7 @@ Learning Scientific Computing with Python on FreedCodeCamp.
 
 FreeCodeCamp recently launched a new Python curriculum. I am currently working on the new curriculum and aiming to build 15 new projects.
 
-Includes:
+**Lessons:**
 
 :white_check_mark: String Manipulation by Building a Cipher
 
@@ -26,7 +26,7 @@ Includes:
 
 :white_circle: Tree Traversal by Building a Binary Search Tree
 
-Final Projects:
+**Final Projects:**
 
 :white_circle: Arithmetic Formatter
 
@@ -38,10 +38,10 @@ Final Projects:
 
 :white_circle: Probability Calculator
 
-Keys: 
+**Keys:** 
 
 :white_check_mark: : Completed
 
 :large_blue_circle: : In Progress
 
-:white_circle: : Not Attempted
+:white_circle: : To Do 

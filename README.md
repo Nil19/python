@@ -34,7 +34,7 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_circle: Budget App
 
-:white_circle: Polyogn Area Calculator
+:white_circle: Polygon Area Calculator
 
 :white_circle: Probability Calculator
 

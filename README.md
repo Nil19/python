@@ -8,9 +8,9 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_check_mark: String Manipulation by Building a Cipher
 
-:large_blue_circle: Work with Numbers and Strings by Implementing the Luhn Algorithm
+:white_check_mark: Work with Numbers and Strings by Implementing the Luhn Algorithm
 
-:white_circle: Lambda Functions by Building an Expense Tracker
+:large_blue_circle: Lambda Functions by Building an Expense Tracker
 
 :white_circle: List Comprehension by Building a Case Converter Program
 

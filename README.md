@@ -10,9 +10,9 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_check_mark: Work with Numbers and Strings by Implementing the Luhn Algorithm
 
-:large_blue_circle: Lambda Functions by Building an Expense Tracker
+:white_check_mark: Lambda Functions by Building an Expense Tracker
 
-:white_circle: List Comprehension by Building a Case Converter Program
+:large_blue_circle: List Comprehension by Building a Case Converter Program
 
 :white_circle: Regular Expressions by Building a Password Generator
 

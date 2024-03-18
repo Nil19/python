@@ -62,3 +62,12 @@ def main():
 
 #Step 28: Inside your while loop, call the input() function passing the string 'Enter your choice: ' as the argument, and assign the result to a variable named choice.
         choice = input('Enter your choice: ')
+    
+#Step 29: Still in the while loop, under the choice variable, write an if statement to check if choice equals the string '1'. If it's true, it will be the starting point for adding a new expense.
+#Inside the if statement body, declare a variable amount and assign it an empty input() call.
+        
+        if choice == '1':
+            amount = input()
+
+#Step 30: Pass the string 'Enter amount: ' to your empty input() call, so you can store the expense.
+            amount = input('Enter amount: ')

@@ -12,9 +12,9 @@ FreeCodeCamp recently launched a new Python curriculum. I am currently working o
 
 :white_check_mark: Lambda Functions by Building an Expense Tracker
 
-:large_blue_circle: List Comprehension by Building a Case Converter Program
+:white_check_mark: List Comprehension by Building a Case Converter Program
 
-:white_circle: Regular Expressions by Building a Password Generator
+:large_blue_circle: Regular Expressions by Building a Password Generator
 
 :white_circle: Algorithm Design by Building a Shortest Path Algorithm
 
